@@ -1,0 +1,13 @@
+.Footer {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+.Footer .IconButton:first-child {
+  padding-left: 0;
+}
+
+.Footer .IconButton:not(:last-child) {
+  margin-right: 56px;
+}

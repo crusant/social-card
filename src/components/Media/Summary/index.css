@@ -1,0 +1,23 @@
+.Summary {
+  padding: 10px 14px;
+}
+
+.Summary h2 {
+  color: black;
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+
+.Summary p {
+  color: black;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+.Summary span {
+  color: gray;
+  display: block;
+  margin-top: 4px;
+}

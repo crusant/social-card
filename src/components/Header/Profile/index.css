@@ -1,0 +1,10 @@
+.Profile {
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+}
+
+.Profile:hover .FullName {
+  color: #00AFEE;
+  text-decoration: underline;
+}

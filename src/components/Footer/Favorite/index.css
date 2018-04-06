@@ -1,0 +1,4 @@
+.Favorite.active [class="material-icons"],
+.Favorite [class="material-icons"]:hover {
+  color: #E0245E;
+}

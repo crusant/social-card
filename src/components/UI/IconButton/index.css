@@ -1,0 +1,12 @@
+.IconButton {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  outline: 0;
+}
+
+.IconButton [class="material-icons"] {
+  color: gray;
+  font-size: 18px;
+  vertical-align: middle;
+}

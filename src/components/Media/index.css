@@ -1,0 +1,13 @@
+.Media {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.Media a {
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+}

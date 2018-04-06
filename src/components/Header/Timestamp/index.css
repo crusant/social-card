@@ -1,0 +1,8 @@
+.Timestamp {
+  color: gray;
+}
+
+.Timestamp::before {
+  content: '\00B7';
+  margin-right: 5px;
+}

@@ -1,0 +1,20 @@
+{
+  "socialCard": {
+    "profile": {
+      "avatar": "https://pbs.twimg.com/profile_images/469652703467941888/xabYpwuR_bigger.png",
+      "fullName": "Codalia",
+      "username": "@codalia"
+    },
+    "timestamp": "31 mar. 2015",
+    "content": {
+      "text": "Pigento es una aplicación sencilla para la creación de prototipos basados en Bootstrap.",
+      "media": {
+        "url": "http://t.co/jo4n680ghi",
+        "imagePath": "https://pbs.twimg.com/card_img/979773927424774144/7cqQmB-y?format=jpg&name=600x314",
+        "title": "Pingendo",
+        "description": "Free Bootstrap 4 builder for developers and designers.",
+        "destination": "pingendo.com"
+      }
+    }
+  }
+}
