@@ -3,11 +3,12 @@ import './index.css'
 import IconButton from '../../UI/IconButton'
 
 const favorite = ({ isFavorite, handleFavorite }) => {
-  const classes = isFavorite ? 'Favorite active' : 'Favorite'
+  let classes = 'Tooltip'
+  classes += isFavorite ? ' Favorite active' : ' Favorite'
   const icon = isFavorite ? 'favorite' : 'favorite_border'
 
   return (
-    <IconButton className={classes} icon={icon} handleClick={handleFavorite} />
+    <IconButton className={classes} icon={icon} data-tooltip="Me gusta" handleClick={handleFavorite} />
   )
 }
 
