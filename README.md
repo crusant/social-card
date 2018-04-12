@@ -32,5 +32,6 @@ Todos los elementos de esta tarjeta estan divididos en componentes.
 ```sh
 $ git clone https://github.com/crusant/social-card.git
 $ cd social-card
+$ npm install
 $ npm start
 ```
